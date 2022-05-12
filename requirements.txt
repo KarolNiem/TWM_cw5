@@ -1,0 +1,4 @@
+opencv-python
+imutils
+scikit-image
+scikit-learn
